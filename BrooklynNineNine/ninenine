@@ -18,7 +18,7 @@ jake passwword -> 987654321
 
 user -> /home/holt/user.txt
 		
-		user.txt -> ee11cbb19052e40b07aac0ca060c23ee
+		
 		
 sudo -l ->   less
 
@@ -27,6 +27,6 @@ sudo -l ->   less
 		
 root -> /root/root.text
 
-		root.txt -> 63a9f0ea7bb98050796b649e85481845
+		
 		
 ------------------------------------------------------------]
